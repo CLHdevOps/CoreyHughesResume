@@ -1,0 +1,456 @@
+{
+  "basics": {
+    "name": "Corey Hughes",
+    "headline": "\"Empowering Teams, Engineering Success: A Servant Leader at the Heart of DevOps Innovation.\"",
+    "email": "corey@5hughes.com",
+    "phone": "+1 (601) 506-8818",
+    "location": "Brandon, MS",
+    "url": {
+      "label": "",
+      "href": "https://coreyresume.5hughes.com"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://ogdevops-hughes.s3.eu-central-1.amazonaws.com/corey.png",
+      "size": 84,
+      "aspectRatio": 0.6,
+      "borderRadius": 2,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": true
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "visible": true,
+      "id": "summary",
+      "content": "<p><br>As a seasoned Principal DevOps Engineer with over 10 years in the healthcare sector, I specialize in leading a team of five Senior DevOps Engineers to improve our data platform's resilience, efficiency, and scalability. My role involves leveraging technologies like AKS, OpenAI, PowerBI, Azure Cloud, and Snowflake to drive innovation and foster a collaborative, continuous learning culture. I'm committed to servant leadership, focusing on my team's growth and empowering them to contribute to our mission of advancing real-time data solutions for patient support and financial optimization. I balance technical and managerial duties, ensuring project success and team development.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "ikvpjpbmtivbo32um6htkydc",
+          "visible": true,
+          "title": "Distiguished Technologist",
+          "awarder": "Integra Connect",
+          "date": "2019",
+          "summary": "<p>Distinguished technologiest honor individuals that have made significant impacts in their field, demonstrating leadership, creativity, and excellence in developing technologies that address complex challenges, improve efficiency, or drive industry transformation.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "kso9bc4re40sf57kxr7arxds",
+          "visible": true,
+          "name": "Microsoft Certified Azure Administrator",
+          "issuer": "Microsoft",
+          "date": "December 2023",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.credly.com/badges/58f28958-1b1b-4c18-8baf-309d182304e8/public_url"
+          }
+        },
+        {
+          "id": "r3xfltebv44uca8c7q7fvqkl",
+          "visible": true,
+          "name": "Snowflake Data Warehouse",
+          "issuer": "Snowflake",
+          "date": "January 2018",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.credly.com/badges/59ea780f-e9c1-4ff5-8fe1-aca41df245db/public_url"
+          }
+        },
+        {
+          "id": "cekkafxv48k10fsye2wpjaas",
+          "visible": true,
+          "name": "Confluent Apache Kafka",
+          "issuer": "Confluent",
+          "date": "January 2024",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.credential.net/12baa7ab-034a-4065-b238-40c417d1bf66#gs.5my9rz"
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "v9xilmmns2mdv0iv2mqkyj7q",
+          "visible": true,
+          "institution": "University of Arkansas Monticello",
+          "studyType": "Bachelors of General Studies",
+          "area": "Criminal Justice",
+          "score": "3.3 GPA",
+          "date": "May 2003 - September 2006",
+          "summary": "<ul><li><p>Awarded academic athletic scholarship</p></li><li><p>Member of the University Baseball team</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.uamont.edu/index.html"
+          }
+        },
+        {
+          "id": "xe1en42huadk8q24mw8x8mac",
+          "visible": true,
+          "institution": "Holmes Community College",
+          "studyType": "Associate of Arts",
+          "area": "Liberal Arts",
+          "score": "3.6 GPA",
+          "date": "May 2001 - September 2003",
+          "summary": "<ul><li><p>Phi Theta Kappa scholarship</p></li><li><p>Athletic baseball scholarship</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://holmescc.edu/"
+          }
+        },
+        {
+          "id": "zw3jicjkrzcsf3jqp35vdj6x",
+          "visible": true,
+          "institution": "Gateway Seminary",
+          "studyType": "Mission Studies Certificate",
+          "area": "Missiology",
+          "score": "4.0 GPA",
+          "date": "January 2017",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.gs.edu/"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ku7tt6z53m2i07oohngxhgbe",
+          "visible": true,
+          "company": "IntegraConnect LLC",
+          "position": "Principal Devops Engineer",
+          "location": "Remote",
+          "date": "March 2024",
+          "summary": "<p>Lead, a team of five talented Sr. DevOps Engineers to enhance the data platform's resilience, efficiency, and scalability. Pursue value with lean principals applied at every decision. </p><ul><li><p>Improved cloud systems functionality with automation and expert configuration management.</p></li><li><p>Monitored applications and infrastructure with observability technologies and managed alerts.</p></li><li><p>Trained team members on use of DevOps technologies, processes, and best practices.</p></li><li><p>Excelled in Agile development environment using daily scrums, expert sprint planning, and successful backlog grooming.</p></li></ul><p><strong>DevOps Tech Lead,  August 2023 - March 204</strong></p><ul><li><p>Conducted Agile rituals, set performance goals, and oversaw the continuous learning and development of DevOps engineers</p></li><li><p>Successfully migrated PowerBI Reporting Services to PowerBI Embedded, achieving end-to-end observability with Datadog.</p></li><li><p>Adapted software to new hardware, capitalizing on emerging technologies.</p></li><li><p>Determined feasibility of proposed designs within time and cost constraints.</p></li><li><p>Met project specifications with continuous oversight of software system installations and ongoing operation.</p></li></ul><p><strong>Senior Devops Engineer, January 2019 -  August 2023</strong></p><ul><li><p>Specialized in automating cloud infrastructure provisioning with Terraform and implementing security standards for Azure resources.</p></li><li><p>Provided technical guidance to team members on best practices for platform engineering.</p></li><li><p>Managed virtual environments, including provisioning, configuration, and troubleshooting.</p></li><li><p>Automated routine tasks using scripting languages such as Python or Shell scripts.</p></li></ul><p><strong>Devops Cloud Engineer, December 2016 -  January 2019</strong></p><ul><li><p>Maintained over 120 virtual servers across Amazon, Azure, and private clouds, managing healthcare application portfolio and cloud-to-server migrations.</p></li><li><p>Enforced strict access control measures through proper identity management policies.</p></li><li><p>Established robust disaster recovery plans to minimize downtime during critical events or outages.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://integraconnect.com"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "qa4jmwkb5e74aoz3hscdbizy",
+          "visible": true,
+          "organization": "Islandreach Ministry",
+          "position": "President",
+          "location": "Exuma, Bahamas",
+          "date": "January 2016",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://islandreachministry.org"
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "a6zdzca5v8mc414345pd6nn9",
+          "visible": true,
+          "name": "Adventure Racing",
+          "keywords": []
+        },
+        {
+          "id": "wvg1fcfcwlzmzj16mgcksnyp",
+          "visible": true,
+          "name": "Hiking",
+          "keywords": []
+        },
+        {
+          "id": "h6ak17qd742215zc4hr76hu2",
+          "visible": true,
+          "name": "Sports",
+          "keywords": []
+        },
+        {
+          "id": "bbdz3p28ombhawe93ep85um0",
+          "visible": true,
+          "name": "Bitcoin Crypto Trading",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "h68naoinbhvb1ew4rcifap4l",
+          "visible": true,
+          "name": "Azure CLI",
+          "description": "",
+          "level": 2
+        },
+        {
+          "id": "i49xezdldfkww3xotpcr8pnz",
+          "visible": true,
+          "name": "Bash",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "yujl0bwye76wthu52939j6xr",
+          "visible": true,
+          "name": "SQL | SnowSQL",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "xtz5er3ab0po6769r7ymxlk6",
+          "visible": true,
+          "name": "Powershell",
+          "description": "",
+          "level": 1
+        },
+        {
+          "id": "tv86mekmknovj16whesc2ia4",
+          "visible": true,
+          "name": "JQL",
+          "description": "",
+          "level": 4
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "jbx0giyya8keld09rwybffj5",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "coreyhughes1",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/coreyhughes1/"
+          }
+        },
+        {
+          "id": "zgzpuzrtfnm8lj9dm173g7ga",
+          "visible": true,
+          "network": "Twitter",
+          "username": "famvertical",
+          "icon": "x",
+          "url": {
+            "label": "",
+            "href": "https://twitter.com/FamVertical"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "visible": true,
+      "id": "references",
+      "items": [
+        {
+          "id": "anmv7zti1i7t4tnqosa6cqpf",
+          "visible": true,
+          "name": "Richard Hughes",
+          "description": "Cowoker",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 1,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "h6nw51hl54wfipwu3dhef70l",
+          "visible": true,
+          "name": "IaC",
+          "description": "terraform, yaml",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "ohq1kh0ubgy3ah2c484omzvx",
+          "visible": true,
+          "name": "CI/CD Pipelines",
+          "description": "Jenkins, Azure Devops",
+          "level": 2,
+          "keywords": []
+        },
+        {
+          "id": "ee0bm4ve06ghx80m4rr741o2",
+          "visible": true,
+          "name": "Cloud Services",
+          "description": "Azure, AKS",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "eajt6bnqbz7hr9lytz01a3aw",
+          "visible": true,
+          "name": "Azure Kubernetes",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "kqkir2g6rvk0fc8n21xdzp88",
+          "visible": true,
+          "name": "Confluent Kafka",
+          "description": "",
+          "level": 1,
+          "keywords": []
+        },
+        {
+          "id": "qailbkuu7txe7ffy2tiur9wd",
+          "visible": true,
+          "name": "Snowflake",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        },
+        {
+          "id": "k7hbkhdy1xabhfw4xu8duolm",
+          "visible": true,
+          "name": "Azure Data Factory",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "uzv9fgca56wu582u711dez6x",
+          "visible": true,
+          "name": "Jira | Confluence Server Cloud",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "pikachu",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#0284c7"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
